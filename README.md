@@ -1,7 +1,7 @@
 # Hotel Cancellation Booking Prediction Project
 
 ## Introduction
-This data set contains booking information for a city hotel and a resort hotel such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has from the data.
+This data set contains booking information for a city hotel and a resort hotel such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things, etc.
 
 ## I will try to answer the following questions:
 1. How many booking were cancelled?
